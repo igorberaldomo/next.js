@@ -1,0 +1,5 @@
+1º para iniciar uma aplicação em next.js digite no terminal npx create-next-app@latest
+
+2º diga s para usar typescript, eslint, tailwind css, src/ diretory
+
+diga n para customize the defautl import alias
