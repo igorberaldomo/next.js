@@ -1,9 +1,0 @@
-1º para iniciar uma aplicação em next.js digite no terminal npx create-next-app@latest
-
-2º diga s para usar typescript, eslint, tailwind css, src/ diretory
-
-3º diga n para customize the defautl import alias
-
-4º para iniciar entre na pasta com cd nome_da_pasta e execute npm run dev
-
-5º para começar a usar next.js edite o arquivo page.tsx na pasta src
